@@ -34,9 +34,9 @@ public class Exercise2 {
 
     System.out.print("Enter the first number: ");
     int num1 = input.nextInt();
-        System.out.print("Enter the second number: ");
+    System.out.print("Enter the second number: ");
     int num2 = input.nextInt();
-        System.out.print("Enter the third number: ");
+    System.out.print("Enter the third number: ");
     int num3 = input.nextInt();
 
     if(num1 >= num2 && num1 >= num3){
